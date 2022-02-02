@@ -1,9 +1,7 @@
 # ATM-bank
 I have created an atm bank project along with a database using My SQL.
 
-
 I am still working on the GUI which will be made with the help of servlets and jsp.
-
 
 These files which I have uploaded here contains:
         1) A SQL file which contains the code for the table and entries in the database.
